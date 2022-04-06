@@ -1,0 +1,97 @@
+.bud{margin:50px;
+background-color: rgb(240, 239 239b);
+}
+.login{
+    float: right;
+    margin-top: 20px;
+}
+button{background-color: green;
+border: none;
+color: white;
+padding: 15px 32px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+border-radius: 25px;
+}
+
+.sign{float: right;
+padding: 20px;
+font-family: cursive;
+}
+.support{float: right;
+    padding: 20px;
+    font-family: cursive;}
+
+.starlogo{margin-left: 200px;}
+
+.littlepar{padding-top: 20px;
+color: brown;}
+
+.scroll{background-color: rgb(224, 214 214);
+    color: black;
+    padding: 20px;
+    display: inline-block;
+    font-size: 30px;
+    border: 2px solid black;
+    border-radius: 100%;
+    text-align: center;
+    height: 2cm;
+    width: 2cm;
+}
+.middleparagraph{text-align: center;
+margin-top: -150px;
+font-family: 'Times New Roman', Times, serif;
+font-size: 22px;}
+
+.green{color: green;}
+
+.voco{color: rgb(224, 192 10);
+}
+h4{margin-left: 700px;}
+.icon1{border: none;
+border-radius: 20px;
+}
+.icon2{border: none;
+border-radius: 100%;
+}
+.icon3{border: none;
+border-radius: 100%;
+}
+.icon4{border: none;
+border-radius: 20px;
+}
+.vanimage{border: none;
+border-radius: 5%;
+margin-top:-20px;}
+
+.searchbar{padding: 20px;
+border: 1px solid grey;
+margin-top: 8px;
+margin-right: 16px;
+font-size: 17px;
+width: 700px;
+border-radius: 10px;
+
+}
+.button{margin-left: -150px;
+background-color: gold;
+border: none;
+color: white;
+padding: 10px 32px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+border-radius: 10px;}
+.search{margin-top: -50px
+    }
+footer{background-color: green;
+height: 150px;
+margin-top: -130px;
+float: inline-start;
+margin-right: -50px;
+margin-left: -100px;
+margin-bottom: -70px;
+}
